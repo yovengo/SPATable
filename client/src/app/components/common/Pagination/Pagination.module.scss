@@ -1,0 +1,12 @@
+.parent {
+  @apply my-4 text-gray-400;
+  .list {
+    @apply flex;
+    .item {
+      @apply py-2 px-4 border border-gray-700 hover:bg-gray-800;
+      &_selected {
+        @apply bg-gray-700
+      }
+    }
+  }
+}

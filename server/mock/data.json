@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022-09-01",
+    "name": "Cola",
+    "quantity": 0,
+    "distance": 13
+  },
+  {
+    "date": "2022-09-02",
+    "name": "Lipton",
+    "quantity": 1,
+    "distance": 24
+  },
+  {
+    "date": "2022-09-03",
+    "name": "Oreo",
+    "quantity": 4,
+    "distance": 35
+  },
+  {
+    "date": "2022-09-04",
+    "name": "Lays",
+    "quantity": 14,
+    "distance": 46
+  },
+  {
+    "date": "2022-09-05",
+    "name": "Pringles",
+    "quantity": 5,
+    "distance": 57
+  },
+  {
+    "date": "2022-09-06",
+    "name": "Microsoft",
+    "quantity": 3,
+    "distance": 78
+  },
+  {
+    "date": "2022-09-07",
+    "name": "Ebay",
+    "quantity": 76,
+    "distance": 89
+  },
+  {
+    "date": "2022-09-08",
+    "name": "Nike",
+    "quantity": 23,
+    "distance": 91
+  },
+  {
+    "date": "2022-09-09",
+    "name": "Audi",
+    "quantity": 94,
+    "distance": 120
+  },
+  {
+    "date": "2022-09-10",
+    "name": "Google",
+    "quantity": 0,
+    "distance": 142
+  }
+]

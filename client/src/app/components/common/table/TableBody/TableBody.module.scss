@@ -1,0 +1,9 @@
+.tbody {
+  @apply text-gray-400 text-sm bg-gray-800;
+  .tableRow {
+    @apply border-y border-gray-700 last:border-0;
+    .tableData {
+      @apply py-3 px-6;
+    }
+  }
+}
